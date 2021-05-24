@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    height: 60px;
+    width:100%;
+    background-color: thistle;
+}
+
+.topnav{
+    height: 60px;
+    width: 100%;
+    background-color: royalblue;
+}
+.main-content{
+    margin:60px;
+    background-color: yellowgreen;
+    border: 4px solid black
+}
+
+.my-video{
+    margin-left: 100px;
+    box-shadow: 5px 5px 5px violet;
+    cursor: pointer;
+}
+
+
+
